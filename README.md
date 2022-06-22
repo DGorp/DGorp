@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a frontend developer
 
-<a href="https://app.daily.dev/dgorp"><img src="https://api.daily.dev/devcards/233f8bb6fff24a92ad9c225c1f6e8af0.png?r=pj7" width="400" alt="Jorge David Martinez Hoil's Dev Card"/></a>
+<a href="https://app.daily.dev/dgorp"><img src="https://github.com/dgorp/dgorp/blob/main/devcard.svg" width="400" alt="Jorge Martinez's Dev Card"/></a>

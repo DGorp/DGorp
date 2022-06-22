@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🌱 I’m currently learning React.js on platzi
+- 🌱 I’m a frontend developer
+
+![image](https://user-images.githubusercontent.com/66934225/174934420-309feba3-de77-4df3-a8dd-480905247cb9.png)

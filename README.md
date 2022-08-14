@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 > 🌱 I’m a frontend developer interested on creativity for UX and UI design
 
-> 😄 People call me Jorge or David, but I created the pseudonym of DGorp
+> 😄 People call me Jorge or David, but I've created the pseudonym of DGorp
 
 > 👯 I’m looking to collaborate on community projects, personal projects and almost any source where I might be able to learn
 
